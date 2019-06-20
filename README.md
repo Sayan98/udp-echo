@@ -7,7 +7,7 @@ UDP echo server, client. Written as a means to measure latency of the vanilla UD
 
 ## client.go
 - sends data to UDP server running at localhost:4245
-- reads data it recieves as response from UDP server
+- reads data it receives as response from UDP server
 
 ## author
 Sayan Goswami
